@@ -1,0 +1,4 @@
+Hello
+This is a file contains multiple line
+This is another line
+Bye
